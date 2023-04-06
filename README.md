@@ -8,18 +8,17 @@ To use this code, you need to have the necessary data files and dependencies ins
 
 ## Used Libraries
 
-| **Library** | **Description** |
-| --- | --- |
-| **numpy** | Numerical computing library |
-| **pandas** | Data manipulation library |
-| **os** | Operating system interface |
-| **IPython** | Interactive computing in Python |
-| **cv2** | Computer vision library |
-| **matplotlib** | Data visualization library |
-| **tensorflow** | Machine learning library |
-| **seaborn** | Data visualization library |
-| **ast** | Abstract syntax tree library |
-
+| Library | Description | Documentation |
+| --- | --- | --- |
+| numpy | Numerical computing library | https://numpy.org/doc/stable/ |
+| pandas | Data manipulation library | https://pandas.pydata.org/docs/ |
+| os | Operating system interface | https://docs.python.org/3/library/os.html |
+| IPython | Interactive computing in Python | https://ipython.readthedocs.io/en/stable/ |
+| cv2 | Computer vision library | https://docs.opencv.org/4.5.4/ |
+| matplotlib | Data visualization library | https://matplotlib.org/stable/contents.html |
+| tensorflow | Machine learning library | https://www.tensorflow.org/api_docs |
+| seaborn | Data visualization library | https://seaborn.pydata.org/ |
+| ast | Abstract syntax tree library | https://docs.python.org/3/library/ast.html |
 ## Plan of Code:
 
 - Importing Libraries 📚
